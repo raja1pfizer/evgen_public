@@ -1,0 +1,47 @@
+#appLogo {
+  height: auto !important;
+  width: 100%;
+}
+
+#appLogo img {
+  width: 5%;
+  float: left;
+  margin-right: 10px;
+}
+
+
+.app-title {
+  font-weight: bolder;
+  font-size: 24px;
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+
+.filter-form-container {
+    background: #E0E0E0;
+    color: rgb(73, 80, 87);
+    border-radius: 25px;
+    height: auto;
+    padding: 10px;
+    font-size: 15px;
+}
+
+
+.nav-pills .nav-link.active {
+  background: #0000C9 !important;
+}
+
+.filter-form-container .form-group {
+  width: auto;
+}
+
+
+.form-tooltip {
+  float: right;
+  display:flex;
+  margin-top: 4px;
+}

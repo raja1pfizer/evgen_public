@@ -1,0 +1,63 @@
+{
+  "packageName": "evgenbowshiny",
+  "appTitle": "",
+  "appBrowserTitle": "Book of Work",
+  "appLogo": "pfe_logo.png",
+  "appTheme": "zephyr",
+  "appFont": "Noto Sans",
+  "appFontScale": 1,
+  "bootstrapVersion": 5,
+  "globalCssFile": "style.css",
+  "navLinks": [
+    {
+      "name": "KIMS",
+      "url": "https://grwd-kims.pfizer.com/DAEWebApp/#/quickLinks",
+      "icon": "chart-bar"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/pfizer-evgen/evgen-bow-refresh",
+      "icon": "github"
+    },
+    {
+      "name": "Pfizer",
+      "url": "https://pfizer.com",
+      "icon": "prescription-bottle"
+    }
+  ],
+  "shinyModules": [
+    {
+      "order": 1,
+      "moduleId": "bow",
+      "tabName": "Book of Work",
+      "tabText": "Book of Work",
+      "uiFunction": "bowViewer",
+      "serverFunction": "bowServer",
+      "icon": "book-open",
+      "include": true,
+      "subModules": []
+    },
+    {
+      "order": 2,
+      "moduleId": "dataFlowAndUpdates",
+      "tabName": "Data Flow and Updates",
+      "tabText": "Data Flow and Updates",
+      "uiFunction": "dataFlowAndUpdatesViewer",
+      "serverFunction": "dataFlowAndUpdatesServer",
+      "icon": "database",
+      "include": true,
+      "subModules": []
+    },
+    {
+      "order": 3,
+      "moduleId": "releaseNotes",
+      "tabName": "Release Notes",
+      "tabText": "Release Notes",
+      "uiFunction": "releaseNotesViewer",
+      "serverFunction": "releaseNotesServer",
+      "icon": "circle-info",
+      "include": true,
+      "subModules": []
+    }
+  ]
+}

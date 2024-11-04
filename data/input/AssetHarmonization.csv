@@ -1,0 +1,259 @@
+﻿PRIMARYDRUG,HARMONIZEDPRIMARYDRUG,DRUGPRIORITY,HARMONIZEDDRUGCATEGORY
+ABROCITINIB,Abrocitinib,Priority Asset,Inflammation and Immunology
+acetylsalicylic acid,Abrocitinib,Priority Asset,Inflammation and Immunology
+"acetylsalicylic acid, PF-00345190",Acetylsalicyclic acid,,
+ADALIMUMAB PFIZER,Adalimumab,,Inflammation and Immunology
+adalimumab:PF-06410293,Adalimumab,,Inflammation and Immunology
+"adalimumab:PF-06410293, etanercept:PF-05208752, tofacitinib:PF-04524477",Adalimumab,,Inflammation and Immunology
+"adalimumab:PF-06410293, tofacitinib:PF-04524477",Adalimumab,,Inflammation and Immunology
+anidulafungin:PF-03910960,Anidulafungin,,Hospital
+anti-T lymphocyte immunoglobulin (horse): PF-06462700 (ISR),Anti-T Lymphocyte Immunoglobulin (Horse),,Hospital
+ANTITHYMOCYTE IMMUNOGLOBULIN (HORSE),Anti-T Lymphocyte Immunoglobulin (Horse),,Hospital
+APIXABAN,Apixaban,Priority Asset,Internal Medicine
+apixaban:PF-04652577,Apixaban,Priority Asset,Internal Medicine
+ARRY-614 (PF-06800302),Array-614,,Oncology
+AVELUMAB,Avelumab,,Oncology
+avelumab:PF-06834635,Avelumab,,Oncology
+"avelumab:PF-06834635, axitinib",Avelumab,,Oncology
+"avelumab:PF-06834635, axitinib, sunitinib malate",Avelumab,,Oncology
+"avelumab:PF-06834635, axitinib, talazoparib","Avelumab, Axitinib",,Oncology
+"avelumab:PF-06834635, binimetinib",Avelumab,,Oncology
+"avelumab:PF-06834635, crizotinib:PF-02341066, palbociclib:PF-00080665","Avelumab, Crizotinib, Palbociclib",Priority Asset,Oncology
+"avelumab:PF-06834635, palbociclib:PF-00080665","Avelumab, Palbociclib",Priority Asset,Oncology
+"avelumab:PF-06834635, talazoparib","Avelumab, Talazoparib",Launch Priority,Oncology
+"avelumab:PF-06834635, Utomilumab (PF-05082566) 4-1BB agonist Mab","Avelumab, Utomilumab",,Oncology
+avelumab:PF-06834635; axitinib; sunitinib malate,"Axitinib, Sunitinib",,Oncology
+AVIBACTAM SODIUM;AZTREONAM,Ceftazidime-avibactam,,Hospital
+AVIBACTAM SODIUM;CEFTAZIDIME PENTAHYDRATE,Ceftazidime-avibactam,,Hospital
+AXITINIB,Axitinib,,Oncology
+axitinib,Axitinib,,Oncology
+"axitinib, bosutinib:PF-05208763, crizotinib:PF-02341066, palbociclib:PF-00080665, sunitinib malate, temsirolimus:PF-05208748","Axitinib, Bosutinib, Crizotinib, Palbociclib, Sunitinib malate, Temsirolimus",Priority Asset,Oncology
+"axitinib, crizotinib:PF-02341066, dacomitinib:PF-00299804, lorlatinib:PF-06463922, palbociclib:PF-00080665, sunitinib malate, talazoparib","Axitinib, Crizotinib, Dacomitinib, Lorlatinib, Palbociclib, Sunitinib malate, Temsirolimus",Priority Asset,Oncology
+"axitinib, crizotinib:PF-02341066, palbociclib:PF-00080665, talazoparib","Axitinib, Crizotinib, Palbociclib, Talazoparib",Priority Asset,Oncology
+"axitinib, OX40 receptor Agonist (PF-04518600)",Axitinib,,Oncology
+"axitinib, palbociclib:PF-00080665, sasanlimab (PF-06801591)","Axitinib, Palbociclib, Sasanlimab",Priority Asset,Oncology
+"axitinib, talazoparib","Axitinib, Talazoparib",Launch Priority,Oncology
+axitinib; avelumab:PF-06834635; sunitinib malate,"Axitinib, Avelumab, Sunitunib",,Oncology
+azithromycin,Azithromycin,,Hospital
+"azithromycin, Invited",Azithromycin,,Hospital
+aztreonam-avibactam,Ceftazidime-avibactam,,Hospital
+bazedoxifene-conjugated estrogens (BZA-CE):PF-05212370,"Bazedoxifene-Conjugated Estrogens (Bza-Ce), Conjugated, Estrogens",,Internal Medicine
+BAZEDOXIFENE;ESTROGENS CONJUGATED,"Bazedoxifene-Conjugated Estrogens (Bza-Ce), Conjugated, Estrogens",,Internal Medicine
+binimetinib,Binimetinib,Priority Asset,Oncology
+"binimetinib, crizotinib:PF-02341066, lorlatinib:PF-06463922","Binimetinib, Crizotinib, Lorlatinib",Priority Asset,Oncology
+"binimetinib, encorafenib","Binimetinib, Encorafenib",Priority Asset,Oncology
+"binimetinib, palbociclib:PF-00080665",Binimetinib,Priority Asset,Oncology
+BNT162,BNT162b2,Priority Asset,COVID
+BNT162b2,BNT162b2,Priority Asset,COVID
+BOSUTINIB,Bosutinib,,Oncology
+bosutinib:PF-05208763,Bosutinib,,Oncology
+"bosutinib:PF-05208763, palbociclib:PF-00080665","Bosutinib, Palbociclib",Priority Asset,Oncology
+ceftaroline fosamil,ceftaroline fosamilcroline fosamil,,Hospital
+"ceftaroline fosamil, ceftazidime-avibactam",Ceftazidime-avibactam,,Hospital
+"ceftaroline fosamil, ceftazidime-avibactam, isavuconazole, isavuconazonium sulfate:PF-07062254",Ceftazidime-avibactam,,Hospital
+ceftaroline fosamil; ceftazidime-avibactam,Ceftazidime-avibactam,,Hospital
+ceftazidime-avibactam,Ceftazidime-avibactam,,Hospital
+"ceftazidime-avibactam, Invited",Ceftazidime-avibactam,,Hospital
+ceftazidime-avibactam; aztreonam-avibactam,Ceftazidime-avibactam,,Hospital
+ceftazidime-avibactam; ceftaroline fosamil,Ceftazidime-avibactam,,Hospital
+Compound Request,Other / Unknown,,
+"Compound Request, Invited",Other / Unknown,,
+"CP-640,922",Other / Unknown,,
+CRISABOROLE,Crisaborole,,Inflammation and Immunology
+crisaborole:PF-06930164,Crisaborole,,Inflammation and Immunology
+CRIZOTINIB,Crizotinib,,Oncology
+crizotinib:PF-02341066,Crizotinib,,Oncology
+"crizotinib:PF-02341066, dacomitinib:PF-00299804, lorlatinib:PF-06463922","Crizotinib, Dacomitinib, Lorlatinib",,Oncology
+"crizotinib:PF-02341066, lorlatinib:PF-06463922","Crizotinib, Lorlatinib",,Oncology
+DACOMITINIB,Dacomitinib,,Oncology
+dacomitinib:PF-00299804,Dacomitinib,,Oncology
+DANUGLIPRON,Danuglipron,,Internal Medicine
+DAZUKIBART,Dazukibart,,Inflammation and Immunology
+DEXMEDETOMIDINE,Dexmedetomidine,,Hospital
+dexmedetomidine hydrochloride,Dexmedetomidine,,Hospital
+DISITAMAB VEDOTIN,Disitamab vedotin,,Oncology
+DISOPYRAMIDE,Disopyramide,,Hospital
+ELRANATAMAB,Elranatamab,Launch Priority,Oncology
+elranatamab (PF-06863135),Elranatamab,Launch Priority,Oncology
+ENCORAFENIB,Encorafenib,Priority Asset,Oncology
+encorafenib,Encorafenib,Priority Asset,Oncology
+enzalutamide,Enzalutamide,Priority Asset,Oncology
+ENZALUTAMIDE,Enzalutamide,Priority Asset,Oncology
+"enzalutamide, talazoparib","Enzalutamide, Talazoparib",Priority Asset,Oncology
+Epinephrine,Other / Unknown,,
+ESTROGENS CONJUGATED,Estrogens Conjugated,,Internal Medicine
+ETANERCEPT,Etanercept,,Inflammation and Immunology
+etanercept:PF-05208752,Etanercept,,Inflammation and Immunology
+"etanercept:PF-05208752, tofacitinib:PF-04524477","Etanercept, Tofacitinib",Priority Asset,Inflammation and Immunology
+ETRASIMOD,Etrasimod,Launch Priority,Inflammation and Immunology
+etrasimod,Etrasimod,Launch Priority,Inflammation and Immunology
+etrasimod - PF-07915503 (RC),Etrasimod,Launch Priority,Inflammation and Immunology
+"etrasimod, tofacitinib:PF-04524477",Etrasimod,Launch Priority,Inflammation and Immunology
+exemestane,Exemestane,,Oncology
+"exemestane, palbociclib:PF-00080665",Exemestane,,Oncology
+FESOTERODINE,Fesoterodine,,Hospital
+FIDANACOGENE ELAPARVOVEC,Fidanacogene elaparvovec,,Rare Disease
+fluconazole,Fluconazole,,Hospital
+FORDADISTROGENE MOVAPARVOVEC,Fordadistrogene movaparvovec,,Rare Disease
+GBT 021601,GBT601,Tier 1 Research Priority,Rare Disease
+gedatolisib: PF-05212384,Gedatolisib,,Oncology
+"gedatolisib: PF-05212384, Invited, OX40 receptor Agonist (PF-04518600), PF-05082566 / 4-1BB / MSB0010718C","Gedatolisib, Sunitinib malate, Temsirolimus",,Oncology
+"gedatolisib: PF-05212384, palbociclib:PF-00080665","Gedatolisib, Palbociclib",,Oncology
+"gedatolisib: PF-05212384, PF-04691502",Gedatolisib,,Oncology
+"gedatolisib: PF-05212384, talazoparib",Gedatolisib,,Oncology
+GEMTUZUMAB OZOGAMICIN,Gemtuzumab ozogamicin,,Oncology
+gemtuzumab ozogamicin:PF-05208747,Gemtuzumab ozogamicin,,Oncology
+"gemtuzumab ozogamicin:PF-05208747, glasdegib: PF-04449913","Gemtuzumab ozogamicin, Glasdegib",,Oncology
+"gemtuzumab ozogamicin:PF-05208747, inotuzumab ozogamicin:PF-05208773","Gemtuzumab Ozogamicin, Inotuzumab Ozogamicin, Inotuzumab Ozogamicin",,Oncology
+"gemtuzumab ozogamicin:PF-05208747, talazoparib","Gemtuzumab Ozogamicin, Talazoparib",,Oncology
+GIROCTOCOGENE FITELPARVOVEC,Giroctocogene fitelparvovec,,Rare Disease
+glasdegib: PF-04449913,Glasdegib,,Oncology
+INFLIXIMAB PFIZER,Infliximab,,Oncology
+"infliximab:CT-P13 (USA, Canada, Europe & Australia)",Infliximab,,Oncology
+"infliximab:CT-P13 (USA, Canada, Europe & Australia), tofacitinib:PF-04524477","Infliximab, Sunitinib malate, Temsirolimus",,Oncology
+infliximab:PF-06438179 (Japan & rest of world),Infliximab,,Oncology
+"infliximab:PF-06438179 (Japan & rest of world), tofacitinib:PF-04524477","Infliximab, Sunitinib malate, Temsirolimus",,Oncology
+INOTUZUMAB OZOGAMICIN,Inotuzumab ozogamicin,,Oncology
+inotuzumab ozogamicin:PF-05208773,Inotuzumab ozogamicin,,Oncology
+Invited,Other / Unknown,,
+"Invited, iron isomaltoside",Iron isomaltoside,,Hospital
+"Invited, palbociclib:PF-00080665, talazoparib","Palbociclib, Talazoparib",Priority Asset,Oncology
+"Invited, PF-04965842 (JAK 1)",Other / Unknown,,Inflammation and Immunology
+"Invited, Relugolix",Relugolix,,Internal Medicine
+"Invited, tafamidis meglumine:PF-06291826",Tafamidis,Priority Asset,Rare Disease
+iron isomaltoside,Iron isomaltoside,,Hospital
+isavuconazole,Isavuconazole,,Hospital
+isavuconazole; ceftaroline fosamil; ceftazidime-avibactam; isavuconazonium sulfate:PF-07062254,Isavuconazole,,Hospital
+ISAVUCONAZONIUM SULFATE,Isavuconazole,,Hospital
+isavuconazonium sulfate:PF-07062254,Isavuconazole,,Hospital
+ketamine hydrochloride,Ketamine hydrochloride,,Hospital
+linezolid,Linezolid,,Hospital
+LORAZEPAM,Lorazepam,,
+LORLATINIB,Lorlatinib,Priority Asset,Oncology
+lorlatinib:PF-06463922,Lorlatinib,Priority Asset,Oncology
+"lorlatinib:PF-06463922, maplirpacept (TTI-622/PF-07901801)","Lorlatinib, Maplirpacept",Priority Asset,Oncology
+lorlatinib:PF-06463922; crizotinib:PF-02341066,"Lorlatinib, Crizotinib",Priority Asset,Oncology
+maplirpacept (TTI-622/PF-07901801),Maplirpacept,Tier 2 Research Priority,Oncology
+"maplirpacept (TTI-622/PF-07901801), PF-07901800 (TTI-621)",Maplirpacept,Tier 2 Research Priority,Oncology
+MARSTACIMAB,Marstacimab,Tier 2 Research Priority,Rare Disease
+Meningococcal Group B Vaccine:PF-05212366,Meningococcal Group B Vaccine,Tier 2 Research Priority,Vaccines
+"Meningococcal Group B Vaccine:PF-05212366, pneumococcal 13-valent conjugate vaccine:PF-05208760",Meningococcal Group B Vaccine,Tier 2 Research Priority,Vaccines
+MENINGOCOCCAL VACCINE A/C/Y/W CONJ (TET TOX),MENINGOCOCCAL VACCINE A/C/Y/W CONJ (TET TOX),Tier 2 Research Priority,Vaccines
+MENINGOCOCCAL VACCINE B RFHBPA/FHBPB,MENINGOCOCCAL VACCINE B RFHBPA/FHBPB,Tier 2 Research Priority,Vaccines
+MENINGOCOCCAL VACCINE PENTAVALENT,MENINGOCOCCAL VACCINE PENTAVALENT,Tier 2 Research Priority,Vaccines
+meropenem,Meropenem,,Hospital
+METHOTREXATE,Methotrexate,,Inflammation and Immunology
+MISOPROSTOL,Misoprostol,,Internal Medicine
+Modrna Influenza,Modrna Influenza,,Vaccines
+"moroctocog alfa – recombinant coagulation factor VIII, nonacog alfa (coagulation factor IX recombinant)",Moroctocog alfa,,Hospital
+moroctocog alfa – recombinant coagulation factor VIII; nonacog alfa (coagulation factor IX recombinant),Moroctocog alfa,,Hospital
+nelfinavir mesylate,Nelfinavir,,Vaccines
+NIRMATRELVIR,"Nirmatrelvir, Ritonavir",Priority Asset,COVID
+nirmatrelvir:PF-07321332/ritonavir:PF-00346560,"Nirmatrelvir, Ritonavir",Priority Asset,COVID
+NON-DRUG,Not Applicable,,
+NONACOG ALFA,Nonacog alfa,,Hospital
+nonacog alfa (coagulation factor IX recombinant),Nonacog alfa,,Hospital
+Not applicable,Not Applicable,,
+PALBOCICLIB,Palbociclib,Priority Asset,Oncology
+palbociclib:PF-00080665,Palbociclib,Priority Asset,Oncology
+"palbociclib:PF-00080665, talazoparib","Palbociclib, Talazoparib",Priority Asset,Oncology
+palbociclib:PF-00080665; crizotinib:PF-02341066; avelumab:PF-06834635,"Palbociclib, Crizotinib, Avelumab",,Oncology
+Paxlovid,"Nirmatrelvir, Ritonavir",Priority Asset,COVID
+pegvisomant,Pegvisomant,,Rare Disease
+"pegvisomant, somatropin","Pegvisomant, Somatropin",,Rare Disease
+PF-01466914,PF-01466914,,
+PF-04449913,Glasdegib,,Oncology
+PF-04965842 (JAK 1),Abrocitinib,Priority Asset,Inflammation and Immunology
+PF-05082566 / 4-1BB / MSB0010718C,Utomilumab,,
+PF-06377651,PF-06377651,,
+PF-06425090,C. Difficile Vaccine,Tier 2 Research Priority,Vaccines
+PF-06439535,Bevacizumab-bvzr,,Oncology
+PF-06650833,PF-06650833,,
+PF-06730512,PF-06730512,,
+PF-06755347,PF-06755347,,
+PF-06760805,Group B Strep Vaccine,Tier 2 Research Priority,Vaccines
+PF-06832195,PF-06832195,,
+PF-06835919,PF-06835919,,
+PF-06928316,Respiratory Syncytial Virus Vaccine,Launch Priority,Vaccines
+PF-07038124,PF-07038124,,
+PF-07209326,PF-07209326,,
+PF-07249708,PF-07249708,,
+PF-07252220,mRNA influenza vaccine,Tier 1 Research Priority,Vaccines
+PF-0730204,BNT162b2,Priority Asset,COVID
+PF-07307405,VLA15,Tier 2 Research Priority,Vaccines
+PF-07328948,,,
+PF-07817883,PF-07328948,Tier 2 Research Priority,
+PF-07829855 (modRNA HA),PF-07829855,,
+PF-07833129,PF-07833129,,
+PF-07868489,PF-07868489,,
+PF-07982047,PF-07982047,,
+PF-08010727,PF-08010727,,
+PF-07915503,Etrasimod,Launch Priority,Inflammation and Immunology
+pneumococcal 13-valent conjugate vaccine:PF-05208760,Pneumococcal 20-valent Conjugate Vaccine,Priority Asset,Vaccines
+"pneumococcal 13-valent conjugate vaccine:PF-05208760, Pneumococcal 20-valent Conjugate Vaccine",Pneumococcal 13-valent conjugate vaccine,Priority Asset,Vaccines
+pneumococcal 13-valent conjugate vaccine:PF-05208760; Meningococcal Group B Vaccine:PF-05212366,Pneumococcal 13-valent conjugate vaccine,Priority Asset,Vaccines
+pneumococcal 13-valent conjugate vaccine:PF-05208760; Pneumococcal 20-valent Conjugate Vaccine,Pneumococcal 20-valent Conjugate Vaccine,Priority Asset,Vaccines
+Pneumococcal 20-valent Conjugate Vaccine,Pneumococcal 20-valent Conjugate Vaccine,Priority Asset,Vaccines
+Pneumococcal 20-valent Conjugate Vaccine; pneumococcal 13-valent conjugate vaccine:PF-05208760,Pneumococcal 20-valent Conjugate Vaccine,Priority Asset,Vaccines
+PNEUMOCOCCAL VACCINE CONJ 13V (CRM197),Pneumococcal 13-valent conjugate vaccine,Priority Asset,Vaccines
+PNEUMOCOCCAL VACCINE CONJ 20V (CRM197),Pneumococcal 20-valent Conjugate Vaccine,Priority Asset,Vaccines
+RECIFERCEPT,Recifercept,,Rare Disease
+recombinant coagulation factor FVI,Recombinant coagulation factor FVI,,Hospital
+Relugolix,Relugolix,,Oncology
+RELUGOLIX,Relugolix,,Oncology
+Respiratory Syncytial Virus Vaccine,Respiratory Syncytial Virus Vaccine,Launch Priority,Vaccines
+rimegepant,Rimegepant,Priority Asset,Internal Medicine
+RIMEGEPANT SULFATE,Rimegepant,Priority Asset,Internal Medicine
+rimegepant: PF-07899801 (RC),Rimegepant,Priority Asset,Internal Medicine
+RITLECITINIB,Ritlecitinib,Launch Priority,Inflammation and Immunology
+Ritlecitinib,Ritlecitinib,Launch Priority,Inflammation and Immunology
+"Ritlecitinib, tofacitinib:PF-04524477",Ritlecitinib,Launch Priority,Inflammation and Immunology
+Ritlecitinib; Brepocitinib/PF-06700841,Ritlecitinib,Launch Priority,Inflammation and Immunology
+Ritlecitinib; tofacitinib:PF-04524477,Ritlecitinib,Launch Priority,Inflammation and Immunology
+RITUXIMAB PFIZER,Rituximab,,Oncology
+rituximab:PF-05280586,Rituximab,,Oncology
+rivipansel:PF-06460031,Rivipansel,,Rare Disease
+RSV VACCINE PROT.SUBUNIT PREF 2V,Respiratory Syncytial Virus Vaccine,Launch Priority,Vaccines
+SASANLIMAB,Sasanlimab,Launch Priority,Oncology
+sasanlimab (PF-06801591) ,Sasanlimab,Launch Priority,Oncology
+"sasanlimab (PF-06801591), sasanlimab (PF-06801591)",Sasanlimab,Launch Priority,Oncology
+SIROLIMUS,Sirolimus,,Hospital
+sirolimus:PF-05208744,Sirolimus,,Hospital
+SOMATROGON,Somatrogon,,Rare Disease
+somatrogon:PF-06836922,Somatrogon,,Rare Disease
+somatropin,Somatrogon,,Rare Disease
+somatropin; somatrogon:PF-06836922,Somatrogon,,Rare Disease
+sugemalimab,Sugemalimab,,Oncology
+"sugemalimab, sunitinib malate, tafamidis (acid free)","Sugemalimab, Sunitinib malate, Tafamidis",,Oncology
+SUNITINIB,Sunitinib,,Oncology
+sunitinib malate,Sunitinib,,Oncology
+tafamidis (acid free),Tafamidis,Priority Asset,Rare Disease
+"tafamidis (acid free), tafamidis meglumine:PF-06291826",Tafamidis,Priority Asset,Rare Disease
+TAFAMIDIS MEGLUMINE,Tafamidis,Priority Asset,Rare Disease
+tafamidis meglumine:PF-06291826,Tafamidis,Priority Asset,Rare Disease
+tafamidis meglumine:PF-06291826; tafamidis (acid free),Tafamidis,Priority Asset,Rare Disease
+TALAZOPARIB,Talazoparib,Launch Priority,Oncology
+talazoparib,Talazoparib,Launch Priority,Oncology
+taliglucerase alfa,Taliglucerase alfa,,Hospital
+TANEZUMAB,Tanezumab,,Oncology
+tanezumab:PF-04383119,Tanezumab,,Oncology
+temsirolimus:PF-05208748,Temsirolimus,,Hospital
+TICK-BORNE ENCEPHALITIS VACCINE,Tick-borne encephalitis vaccine,Tier 2 Research Priority,Vaccines
+Tick-Borne Encephalitis Vaccine (whole virus inactivated):PF-06830414,Tick-borne encephalitis vaccine,Tier 2 Research Priority,Vaccines
+TOFACITINIB,Tofacitinib,Priority Asset,Inflammation and Immunology
+tofacitinib:PF-04524477,Tofacitinib,Priority Asset,Inflammation and Immunology
+tofacitinib:PF-04524477; adalimumab:PF-06410293,Tofacitinib,Priority Asset,Inflammation and Immunology
+tofacitinib:PF-04524477; etanercept:PF-05208752,Tofacitinib,Priority Asset,Inflammation and Immunology
+"tofacitinib:PF-04524477; infliximab:PF-06438179 (Japan & rest of world); infliximab:CT-P13 (USA, Canada, Europe & Australia)",Tofacitinib,Priority Asset,Inflammation and Immunology
+tofacitinib:PF-04524477; Ritlecitinib,Tofacitinib,Priority Asset,Inflammation and Immunology
+TRASTUZUMAB PFIZER,Trastuzumab,,Oncology
+varenicline tartrate,Varenicline,,Internal Medicine
+VEPDEGESTRANT,Vepdegestrant,,Oncology
+voriconazole,Voriconazole,,Hospital
+VOXELOTOR,Voxelotor,Priority Asset,Rare Disease
+voxelotor: PF-06759497 (ISR),Voxelotor,Priority Asset,Rare Disease
+voxelotor: PF-06759497 (RC),Voxelotor,Priority Asset,Rare Disease
+ZAVEGEPANT,Zavegepant,Tier 2 Research Priority,Internal Medicine
+zavegepant: PF-07930207 (ISR),Zavegepant,Tier 2 Research Priority,Internal Medicine
+zavegepant: PF-07930207 (RC),Zavegepant,Tier 2 Research Priority,Internal Medicine
+ZIPRASIDONE,Ziprasidone,,Internal Medicine
